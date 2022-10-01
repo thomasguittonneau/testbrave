@@ -11,7 +11,6 @@ $boost=1,site=github.io
 $boost=1,site=thomasg.fr
 $boost=1,site=micro.blog
 /blog.$boost=1
-/bl<s>ddog.$boost=1
 /blog/$boost=1
 /engineering.$boost=2
 
